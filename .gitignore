@@ -1,1 +1,4 @@
-node_modules
+node_modules/
+
+# Generated type definitions from protocol buffers
+gen/
