@@ -1,5 +1,5 @@
 import { createPromiseClient } from "@bufbuild/connect";
-import { ElizaService } from "../gen/eliza_connect.js";
+import { ElizaService } from "@buf/maxdumas_connect-example.bufbuild_connect-es/eliza_connect.js";
 import { createConnectTransport } from "@bufbuild/connect-node"
 
 const transport = createConnectTransport({

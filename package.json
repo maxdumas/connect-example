@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@buf/maxdumas_connect-example.bufbuild_connect-es": "^0.12.0-20230808174428-ec0bd17abd4d.1",
     "@bufbuild/buf": "^1.25.1",
     "@bufbuild/connect": "^0.12.0",
     "@bufbuild/connect-fastify": "^0.12.0",
